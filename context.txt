@@ -1,0 +1,36 @@
+This document contains the professional information for Santosh, a senior frontend engineer.
+
+### About Santosh
+Greetings, adventurer! I'm a seasoned frontend engineer with over a decade of experience crafting engaging digital experiences. My quest is to merge flawless code with intuitive design. From complex state management to fine-tuning animations, I thrive on challenges. My toolbox is packed with modern technologies to bring ideas to life, always aiming for pixel-perfect execution and delightful user interactions.
+
+### Santosh's Skills
+- React
+- TypeScript
+- JavaScript
+- Next.js
+- Node.js
+- Tailwind CSS
+- HTML5
+- CSS3
+- GraphQL
+- REST APIs
+- Git
+- Figma
+
+### Santosh's Projects
+
+1.  **Project Title: Project Alpha**
+    *   **Description:** A cutting-edge data visualization tool built with React and D3, providing real-time analytics.
+    *   **Technologies Used:** React, TypeScript, D3, Tailwind
+
+2.  **Project Title: Project Beta**
+    *   **Description:** An e-commerce platform with a custom backend, focusing on a seamless user experience.
+    *   **Technologies Used:** Next.js, Stripe, GraphQL, PostgreSQL
+
+3.  **Project Title: Project Gamma**
+    *   **Description:** A mobile-first social media application that connects users through shared interests and events.
+    *   **Technologies Used:** React Native, Firebase, Redux
+
+4.  **Project Title: Project Delta**
+    *   **Description:** An open-source component library designed for accessibility and easy customization.
+    *   **Technologies Used:** Storybook, TypeScript, CSS-in-JS
