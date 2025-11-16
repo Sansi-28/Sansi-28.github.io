@@ -27,7 +27,7 @@ const useTypingEffect = (text, speed) => {
 };
 
 const Hero = () => {
-  const subtitleToType = "A World-Class Senior Frontend React Engineer.";
+  const subtitleToType = "Full-Stack Engineer Specializing in React & Spring Boot.";
   const typedSubtitle = useTypingEffect(subtitleToType, 80);
 
   return (
@@ -49,7 +49,7 @@ const Hero = () => {
           )}
         </p>
         <p className="max-w-2xl mx-auto text-sm md:text-base leading-relaxed">
-          I build immersive and performant web applications with a passion for great UI/UX and pixel-perfect design.
+          I build robust full-stack web applications with clean architecture, reliable backends, and smooth user interfaces.
         </p>
         <div className="pt-4">
           {/* Fix: Added children to PixelatedButton to resolve missing property error. */}

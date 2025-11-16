@@ -16,7 +16,7 @@ const About = () => {
             <div className="absolute -top-3 -left-3 w-full h-full border-4 border-pixel-yellow"></div>
             <div className="absolute -bottom-3 -right-3 w-full h-full border-4 border-pixel-pink"></div>
             <img 
-              src="https://picsum.photos/seed/profile/400/400" 
+              src="/me.jpeg" 
               alt="Pixelated Avatar"
               className="relative z-10 w-full h-full object-cover border-4 border-pixel-blue"
             />
