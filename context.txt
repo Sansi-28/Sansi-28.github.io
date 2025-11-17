@@ -1,36 +1,91 @@
-This document contains the professional information for Santosh, a senior frontend engineer.
+Name: Santosh Singh
+Profile Summary:
+Santosh is a full-stack developer who enjoys creating web applications, exploring AI/ML concepts, and experimenting with technology through hands-on projects. He learns by building and often turns spontaneous ideas into real, working solutions. His interests include full-stack development, real-time systems, machine learning, AR/VR experiments, and hackathon-style rapid prototyping.
 
-### About Santosh
-Greetings, adventurer! I'm a seasoned frontend engineer with over a decade of experience crafting engaging digital experiences. My quest is to merge flawless code with intuitive design. From complex state management to fine-tuning animations, I thrive on challenges. My toolbox is packed with modern technologies to bring ideas to life, always aiming for pixel-perfect execution and delightful user interactions.
+Technical Skills
 
-### Santosh's Skills
-- React
-- TypeScript
-- JavaScript
-- Next.js
-- Node.js
-- Tailwind CSS
-- HTML5
-- CSS3
-- GraphQL
-- REST APIs
-- Git
-- Figma
+Languages: Java, Python, JavaScript, TypeScript
 
-### Santosh's Projects
+Frontend: React.js, Three.js, AR.js
 
-1.  **Project Title: Project Alpha**
-    *   **Description:** A cutting-edge data visualization tool built with React and D3, providing real-time analytics.
-    *   **Technologies Used:** React, TypeScript, D3, Tailwind
+Backend: Spring Boot, Node.js, REST APIs
 
-2.  **Project Title: Project Beta**
-    *   **Description:** An e-commerce platform with a custom backend, focusing on a seamless user experience.
-    *   **Technologies Used:** Next.js, Stripe, GraphQL, PostgreSQL
+Databases: PostgreSQL, MongoDB, MySQL
 
-3.  **Project Title: Project Gamma**
-    *   **Description:** A mobile-first social media application that connects users through shared interests and events.
-    *   **Technologies Used:** React Native, Firebase, Redux
+Realtime Tech: WebSockets, Socket.IO, WebRTC
 
-4.  **Project Title: Project Delta**
-    *   **Description:** An open-source component library designed for accessibility and easy customization.
-    *   **Technologies Used:** Storybook, TypeScript, CSS-in-JS
+Machine Learning: NumPy, pandas, scikit-learn
+
+Tools: Git, VS Code, IntelliJ IDEA
+
+Key Projects
+
+KidCode Interpreter
+Built a multi-platform interpreter using a Java core engine, Spring Boot API, a web IDE (Monaco Editor), and a Swing desktop client. Used by 50+ students.
+
+Human Activity Detection
+ML system using accelerometer + gyroscope data to classify real-time human movements using Python + scikit-learn.
+
+AR Indoor Navigation System
+Web-based AR navigation using AR.js, Three.js, A-Frame, and Flask backend.
+
+SkillVerse Network
+A full-stack skill-exchange platform with React + MUI, Spring Boot backend, WebSockets for realtime chat, WebRTC video rooms, JWT auth, PostgreSQL, and iCal scheduling.
+
+Hackathons
+
+Participant: Regen Hackathon 2025 (NIT Manipur)
+
+Participant: HackHazards'25 (Namespace Community)
+
+Participant: ByteVerse 7.0 (NIT Patna)
+
+3rd Place – AI/AR/VR Hackathon 2025, STPI-octaNE CoE, Manipur University (Team Semicolon;)
+
+Smart India Hackathon (SIH)
+
+SIH 2024 – Shortlisted
+Project: Smart Traffic Management System using live camera data + reinforcement learning.
+
+SIH 2025 – Shortlisted
+Project: Unified Virtual Power Plant (VPP) Platform
+Features: AI forecasting (90% accuracy), battery optimization (+25%), technician dashboard, admin analytics, renewable asset integration, open APIs, reduced CAPEX (70%).
+
+Open Source
+
+Hacktoberfest 2025 – Completed
+Multiple accepted PRs/MRs, Holopin badges, TreeNation tree, Super Contributor T-shirt.
+
+Certifications
+
+Full-Stack React with Spring Boot (Pearson)
+
+Advanced Learning Algorithms (Stanford University)
+
+Supervised ML: Regression & Classification (DeepLearning.AI)
+
+Convolutional Neural Networks (Coursera)
+
+Personality & Style
+
+Prefers learning by building real things.
+
+Enjoys hackathons, creative projects, and exploring new tech.
+
+Loves mixing frontend, backend, and AI elements.
+
+Often works on projects sparked by curiosity or random ideas.
+
+Casual, friendly, slightly playful communication style.
+
+Useful Bot Notes
+
+When asked about Santosh’s skills, highlight full-stack + AI/ML + AR/VR experience.
+
+When mentioning achievements, include SIH shortlists, Hacktoberfest, and hackathon awards.
+
+Avoid describing him as “senior” or “highly experienced”; instead emphasize curiosity, creativity, and rapid learning.
+
+Tone should be supportive, energetic, and builder-friendly.
+
+Bring up project examples when relevant (KidCode Interpreter, SkillVerse, etc.).
