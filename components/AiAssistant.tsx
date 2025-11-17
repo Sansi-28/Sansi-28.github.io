@@ -28,7 +28,7 @@ const AiAssistant = ({ isOpen, onClose }) => {
     }
   }, [messages, isOpen]);
   
-  const handleSubmit = async (e) => {
+ const handleSubmit = async (e) => {
     e.preventDefault();
     if (!input.trim() || isLoading || !context) return;
 
@@ -38,17 +38,17 @@ const AiAssistant = ({ isOpen, onClose }) => {
     setIsLoading(true);
 
     try {
-      // Fix: Cast window to any to access process.env without TypeScript errors.
-      const apiKey = (window as any).process?.env?.API_KEY;
+      const apiKey = process.env.API_KEY;
 
-      if (!apiKey || apiKey === 'PASTE_YOUR_GEMINI_API_KEY_HERE') {
-        const apiKeyError = { sender: 'ai', text: "SYSTEM ERROR: Gemini API key is not configured. Please open the index.html file and set your API key." };
+      if (!apiKey) {
+        const apiKeyError = { sender: 'ai', text: "SYSTEM ERROR: Gemini API key has not been configured for this deployment." };
         setMessages(prev => [...prev, apiKeyError]);
         setIsLoading(false);
         return;
       }
 
-      const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+      // Correctly use the imported class name 'GoogleGenAI'
+      const ai = new GoogleGenAI({ apiKey: apiKey });
 
       const systemInstruction = `You are PixelBot, a helpful AI assistant for Santosh's portfolio. Your personality is friendly, a bit quirky, and retro, like a classic video game character. Answer the user's question based ONLY on the following context. If the answer is not in the context, say "I'm sorry, I don't have that information in my knowledge base. Maybe ask me about Santosh's skills or projects! Or you can contact Santosh through mail". Do not make up information. Keep your answers concise and format them cleanly. Also never forget to respond the user if he is giving inputs like a salutation or greeting.
 
