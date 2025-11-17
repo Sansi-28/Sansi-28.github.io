@@ -124,8 +124,8 @@ export const ACCOMPLISHMENTS: Accomplishment[] = [
 
   {
     category: "Hackathon",
-    title: "Nerathon 2025 – Participant",
-    description: "Participated in the Regen hackathon hosted at NIT Manipur.",
+    title: "Neurathon 2025 – Participant",
+    description: "Participated in the Neurathon hackathon hosted at NIT Silchar ML club.",
     date: "2025",
     url: "https://drive.google.com/drive/folders/1mKBPSyrlKOqOSe2Y0Xxt2gzc-flrSTt5"
   },
