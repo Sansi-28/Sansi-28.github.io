@@ -1,60 +1,80 @@
 Name: Santosh Singh
+
 Profile Summary:
-Santosh is a full-stack developer who enjoys creating web applications, exploring AI/ML concepts, and experimenting with technology through hands-on projects. He learns by building and often turns spontaneous ideas into real, working solutions. His interests include full-stack development, real-time systems, machine learning, AR/VR experiments, and hackathon-style rapid prototyping.
+Santosh is a full-stack developer who learns best by building. He enjoys creating web applications, experimenting with AI/ML, and exploring new technologies through hands-on projects. He often turns spontaneous ideas into real solutions and gravitates toward work that combines full-stack development, real-time systems, machine learning, and AR/VR experimentation. He also enjoys hackathons and rapid prototyping environments.
 
 Technical Skills
 
-Languages: Java, Python, JavaScript, TypeScript
+Languages:
+Java, Python, JavaScript, TypeScript
 
-Frontend: React.js, Three.js, AR.js
+Frontend:
+React.js, Three.js, AR.js
 
-Backend: Spring Boot, Node.js, REST APIs
+Backend:
+Spring Boot, Node.js, REST API design
 
-Databases: PostgreSQL, MongoDB, MySQL
+Databases:
+PostgreSQL, MongoDB, MySQL
 
-Realtime Tech: WebSockets, Socket.IO, WebRTC
+Realtime Systems:
+WebSockets, Socket.IO, WebRTC
 
-Machine Learning: NumPy, pandas, scikit-learn
+Machine Learning:
+NumPy, pandas, scikit-learn
 
-Tools: Git, VS Code, IntelliJ IDEA
+Developer Tools:
+Git, VS Code, IntelliJ IDEA
 
 Key Projects
 
 KidCode Interpreter
-Built a multi-platform interpreter using a Java core engine, Spring Boot API, a web IDE (Monaco Editor), and a Swing desktop client. Used by 50+ students.
+A multi-platform programming language interpreter built with a Java core engine, Spring Boot REST API, Monaco Editor web IDE, and a Swing-based desktop client. Used by 50+ students across multiple schools.
 
-Human Activity Detection
-ML system using accelerometer + gyroscope data to classify real-time human movements using Python + scikit-learn.
+Human Activity Detection (HAD)
+A machine learning pipeline using accelerometer and gyroscope data to classify human activities in real time with Python and scikit-learn.
 
 AR Indoor Navigation System
-Web-based AR navigation using AR.js, Three.js, A-Frame, and Flask backend.
+A web-based indoor navigation solution built using AR.js, Three.js, A-Frame, and a Flask backend to overlay directional guidance in real-world environments.
 
 SkillVerse Network
-A full-stack skill-exchange platform with React + MUI, Spring Boot backend, WebSockets for realtime chat, WebRTC video rooms, JWT auth, PostgreSQL, and iCal scheduling.
+A full-stack skill-exchange platform featuring real-time chat (WebSockets + STOMP), WebRTC video rooms, JWT authentication, PostgreSQL relational modeling, file uploads, iCal scheduling, and a React + MUI frontend.
 
-Hackathons
+Hackathon Participation
 
-Participant: Regen Hackathon 2025 (NIT Manipur)
+Regen Hackathon 2025 (Participant)
 
-Participant: HackHazards'25 (Namespace Community)
+HackHazards'25 by Namespace Community (Participant)
 
-Participant: ByteVerse 7.0 (NIT Patna)
+ByteVerse 7.0, NIT Patna (Participant)
 
-3rd Place – AI/AR/VR Hackathon 2025, STPI-octaNE CoE, Manipur University (Team Semicolon;)
+3rd Place, AI/AR/VR Hackathon 2025 — STPI-octaNE CoE (Team Semicolon;)
 
 Smart India Hackathon (SIH)
 
-SIH 2024 – Shortlisted
-Project: Smart Traffic Management System using live camera data + reinforcement learning.
+SIH 2024 – Shortlisted (College Level)
+Project: Smart Traffic Management System using real-time camera data and reinforcement learning for dynamic signal optimization.
 
-SIH 2025 – Shortlisted
+SIH 2025 – Shortlisted (College Level)
 Project: Unified Virtual Power Plant (VPP) Platform
-Features: AI forecasting (90% accuracy), battery optimization (+25%), technician dashboard, admin analytics, renewable asset integration, open APIs, reduced CAPEX (70%).
+Key features included:
 
-Open Source
+AI forecasting with >90% accuracy
+
+Battery optimization improving efficiency by ~25%
+
+Technician dashboard with alerts and one-click actions
+
+Admin analytics (cost, carbon reduction, renewable usage)
+
+Open APIs for inverter, smart meter, tariff, and weather integrations
+
+Software-first architecture enabling ~70% CAPEX reduction
+
+Open Source Contributions
 
 Hacktoberfest 2025 – Completed
-Multiple accepted PRs/MRs, Holopin badges, TreeNation tree, Super Contributor T-shirt.
+Multiple accepted PRs/MRs, Holopin digital badges, a tree planted via TreeNation, and the official Super Contributor T-shirt.
 
 Certifications
 
@@ -62,30 +82,30 @@ Full-Stack React with Spring Boot (Pearson)
 
 Advanced Learning Algorithms (Stanford University)
 
-Supervised ML: Regression & Classification (DeepLearning.AI)
+Supervised Machine Learning: Regression & Classification (DeepLearning.AI)
 
 Convolutional Neural Networks (Coursera)
 
-Personality & Style
+Personality & Working Style
 
-Prefers learning by building real things.
+Learns by building rather than theory.
 
-Enjoys hackathons, creative projects, and exploring new tech.
+Enjoys hackathons, creative challenges, and fast-paced prototyping.
 
-Loves mixing frontend, backend, and AI elements.
+Likes mixing multiple domains: frontend, backend, AI/ML, and AR/VR.
 
-Often works on projects sparked by curiosity or random ideas.
+Often builds projects sparked by curiosity or spontaneous ideas.
 
-Casual, friendly, slightly playful communication style.
+Communicates in a casual, friendly, and slightly playful tone.
 
-Useful Bot Notes
+Guidelines for the Assistant
 
-When asked about Santosh’s skills, highlight full-stack + AI/ML + AR/VR experience.
+Highlight Santosh’s strengths in full-stack development, AI/ML, real-time systems, and AR/VR when relevant.
 
-When mentioning achievements, include SIH shortlists, Hacktoberfest, and hackathon awards.
+When discussing achievements, include SIH shortlisting, Hacktoberfest completion, and hackathon experiences.
 
-Avoid describing him as “senior” or “highly experienced”; instead emphasize curiosity, creativity, and rapid learning.
+Do not overstate his seniority; instead emphasize creativity, curiosity, and rapid learning.
 
-Tone should be supportive, energetic, and builder-friendly.
+Maintain a supportive, energetic, builder-friendly tone.
 
-Bring up project examples when relevant (KidCode Interpreter, SkillVerse, etc.).
+Use past projects (KidCode, SkillVerse, AR navigation, VPP platform, HAD) as examples when helpful.
